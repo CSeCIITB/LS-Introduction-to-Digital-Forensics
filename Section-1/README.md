@@ -1,8 +1,6 @@
 # Section-1 (Steganography)
 Welcome to the first section of Learners' Space: Introduction to Digital Forensics!
 
-![](https://github.com/me-resilient64/nancy/blob/main/what.png)
-
 This time, we're going to be dealing with Steganography. It is basically hiding a (secret) message inside 
 something (possibly, another message). It may be physical or digital, on paper or image/audio. 
 
