@@ -18,25 +18,25 @@ For brute-force attack, some password list is used, standard or maybe self-made.
 Also, see https://en.wikipedia.org/wiki/RockYou#Data_breach and https://haveibeenpwned.com/Passwords.
 
 ## Text Guides:
-https://esolangs.org/wiki/Main_Page
+- https://esolangs.org/wiki/Main_Page
 
-https://ctfs.github.io/resources/topics/steganography/README.html
+- https://ctfs.github.io/resources/topics/steganography/README.html
 
-https://ctf101.org/forensics/what-is-stegonagraphy/
+- https://ctf101.org/forensics/what-is-stegonagraphy/
 
-https://picoctf.org/learning_guides/Book-4-Forensics.pdf
+- https://picoctf.org/learning_guides/Book-4-Forensics.pdf
 
-https://wiki.bi0s.in/forensics/roadmap/
+- https://wiki.bi0s.in/forensics/roadmap/
 
 ## Video Guides:
-https://www.youtube.com/playlist?list=PL1H1sBF1VAKV6rTEh76pxQKgeFwme5gsT
+- https://www.youtube.com/playlist?list=PL1H1sBF1VAKV6rTEh76pxQKgeFwme5gsT
 
-https://www.youtube.com/watch?v=TWEXCYQKyDc
+- https://www.youtube.com/watch?v=TWEXCYQKyDc
 
 ## Practice:
-https://play.picoctf.org/
+- https://play.picoctf.org/
 
-https://ctflearn.com/
+- https://ctflearn.com/
 
 Discussions among students are encouraged and we request you to use the respective Team in MS Teams for the same.
 
