@@ -34,7 +34,7 @@ Also, see https://en.wikipedia.org/wiki/RockYou#Data_breach and https://haveibee
 - https://www.youtube.com/watch?v=TWEXCYQKyDc
 
 ## Practice:
-- https://play.picoctf.org/
+- https://play.picoctf.org/; If the previous link gives error 403, try [this](https://play.picoctf.org/login)
 
 - https://ctflearn.com/
 
