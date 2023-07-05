@@ -4,6 +4,6 @@ I could understand some instances as a part of basic human psychology, but some 
 
 (TL;DR)
 
-This zip file contains descriptions of some instances. Find the hidden message in each instance to assemble the complete flag! PS: the password to the zip file is my favorite community of IITB ;-) (in all small) <br>
+This zip file contains descriptions of some instances. Find the hidden message in each instance to assemble the complete flag! PS: the password to the zip file is my favorite community of IITB ;-) (in all small) <br> 
 
 Flag Format: YoS{...}
