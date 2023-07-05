@@ -7,3 +7,5 @@ Look at file headers
   
 </p>
 </details>
+
+Flag Format: flag{...}
