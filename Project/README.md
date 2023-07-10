@@ -6,3 +6,6 @@ Use Python, C, or C++ to write a program that takes in the name of a file contai
 To learn about how Brainfuck code is written, and to see examples, refer to [this](https://en.wikipedia.org/wiki/Brainfuck) page.
 
 **Note:** You may assume that the code given to the program has no errors.
+
+### Submission Link
+https://forms.gle/fFGtc1CxU8QVvRwGA
