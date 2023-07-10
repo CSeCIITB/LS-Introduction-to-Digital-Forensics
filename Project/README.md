@@ -1,4 +1,4 @@
-# Project
+# The Final Project
 
 ## Part 1 - Brainfuck Interpreter
 
