@@ -5,3 +5,8 @@ I can't really put my finger on it, but there is something different about this 
 Mind having a look for me?
 
 Flag format: flag{...}
+
+<details>
+  <summary>Hint</summary>
+  Try regarding the significance of bits 👀
+</details>
