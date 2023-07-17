@@ -1,4 +1,4 @@
-# Module-3 Part-3 (Network Forensics)
+# Section-3 (Network Forensics)
 
 Network forensics deals with monitoring and analysis of computer network traffic for the purposes of information gathering, legal evidence, or intrusion detection. Unlike other areas of digital forensics, network investigations deal with volatile and dynamic information. </br>
 
