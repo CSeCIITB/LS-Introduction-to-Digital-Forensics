@@ -8,6 +8,8 @@ Two systems are commonly used to collect network data; a brute force "catch it a
 
 In this part of the module, we shall be exploring network forensics by analysing network packet capture files using a convenient tool named **Wireshark**.
 
+Additionally, here is a guide to **socket programming**: https://realpython.com/python-sockets/
+
 ## Text Guides:
 - https://wiki.bi0s.in/forensics/network-forensics/
 
