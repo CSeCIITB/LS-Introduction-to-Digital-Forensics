@@ -11,9 +11,6 @@ There are essentially three components of this project.
 2. **Wireshark**: Next, start a packet capture on Wireshark. Take any Brainfuck program and send it from the client (Alice) to the server (Bob). Once completed, terminate the packet capture. Now, assume the role of Eve and extract the Brainfuck program from the PCAP file you have just created.
 3. **Brainfuck Interpreter**: Use Python, C, or C++ to write a program that takes in the name of a file containing Brainfuck code and executes the code in that file. You are essentially creating a program to "execute" Brainfuck code. To learn about how Brainfuck code is written, and to see examples, refer to [this](https://en.wikipedia.org/wiki/Brainfuck) page. (You may assume that the Brainfuck code given to the program has no errors.)
 
-### Submission Instructions
-
-
 ### Submission Link
 You are required to submit the following:
 - client and server programs
