@@ -13,7 +13,7 @@ There are essentially three components of this project.
 
 ### Submission Link
 You are required to submit the following:
-- client and server programs
+- Client and Server socket programs
 - PCAP file with the captured network traffic
 - Brainfuck Interpreter
 
